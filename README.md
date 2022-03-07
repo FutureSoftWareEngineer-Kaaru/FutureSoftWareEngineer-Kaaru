@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and playing
 - 🌱 I’m currently learning Visual Basic (lesson in computer) Advanced HTML, CSS and Java
 - 💞️ I’m looking to collaborate on my life
-- 📫 How to reach me ...
+- 📫 How to reach me Gmail or Instegram :>
 
 <!---
 FutureSoftWareEngineer-Kaaru/FutureSoftWareEngineer-Kaaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
